@@ -1,5 +1,5 @@
-msgid "A screenshot of a website using AMP."
+msgid "First line to test work with Po file"
 msgstr ""
 
-msgid "A screenshot showing amp-sidebar."
+msgid "Second line to test work with Po file"
 msgstr ""
