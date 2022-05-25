@@ -1,4 +1,5 @@
-msgid "A screenshot of a website using AMP." msgstr ""
+msgid "A screenshot of a website using AMP."
+msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
