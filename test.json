@@ -1,31 +1,28 @@
 {
-	"name":"File Name Test",
-	"head":[
+	"name" : "File Name Test",
+	"head" : [
 		{
-		"name": "Book", 
-		"sections":[
+		"name" : "Test Name First Segment In Array", 
+		"sections" : [
 			{
-			"name": "Kinematics",
-			"complexity": "average",
-			"interest": "great",
-			"url" :"https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0",
-			"bool": true
+			"name" : "Test First Name In Section",
+			"text" : "Test Text In Section",
+			"url" : "https://wikipedia.org/",
+			"bool" : true
 			},
 			{
-			"name": "Hydrodynamics",
-			"complexity": "4",
-			"interest": "3",
-			"bool": false
+			"name" : "Test Second Name In Section"
 			}
 		]
 		},
 		{
-		"name": "Electricity",
-		"sections":[
+		"name" : "Test Name Second Segment In Array",
+		"sections" : [
 			{
-			"name": "electrostatics",
-			"complexity": "four ",
-			"interest": "five"
+			"name" : "Test First Name In Second Section",
+			"text" : "Test Text In Second Section",
+			"url" : "https://google.com/",
+			"bool" : false
 			}
 		]
 		}
