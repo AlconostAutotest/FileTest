@@ -1,5 +1,5 @@
 file:
-    name: test
+    name:
       composition: [dough, cream]
       dough:
        - eggs
