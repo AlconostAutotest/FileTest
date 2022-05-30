@@ -1,6 +1,5 @@
-#YAML
-my:
-    cake:
+file:
+    name: test
       composition: [dough, cream]
       dough:
        - eggs
