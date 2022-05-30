@@ -1,11 +1,5 @@
 file:
-    name:
-      composition: [dough, cream]
-      dough:
-       - eggs
-       - sugar
-       - flour
-      cream:
-        - sugar
-        - milk
-      composition: { dough: [eggs, sugar, flour], cream: [sugar, milk]}
+      name: Pale Fire
+      language:
+       - English
+       - Russian
