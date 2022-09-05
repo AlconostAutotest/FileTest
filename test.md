@@ -2,7 +2,7 @@
 
 Test location text on size gitlocalize with images and table
 
-![Test image](https://gidfon.com/prev/52218.jpg)
+![Test image](https://wpapers.ru/wallpapers/animals/Cats/17143/PREV_Грамотная-кошка.jpg)
 
 | First Table | Second Table |
 | ------------- | ------------- |
